@@ -6,3 +6,5 @@ def strcounter(s): # 0(N)
     for sym, count in syms_counter.items():
         print(sym, count)
 strcounter('abckfaa')
+
+#jhdbfjdfkjdsnal
